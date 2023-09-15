@@ -6,7 +6,7 @@ public class PlayerMovement : MonoBehaviour
 {
     Rigidbody rb;
 
-    public ProjectileLaunch projectileLaunch;
+    public GameObject projectileLaunch;
 
     public float playerSpeed;
     public float maxSpeed;
